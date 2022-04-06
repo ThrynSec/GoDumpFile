@@ -1,13 +1,11 @@
 # GoDumpPayload
- 
-[![Issues][issues-shield]][https://github.com/ThrynSec/GoDumpPayload/issues]
-[![MIT License][license-shield]][https://github.com/ThrynSec/GoDumpPayload/blob/main/LICENSE]
-[![Twitter][twitter-shield]][https://twitter.com/ThrynSec]
 
 GoDumpPayload is an executable that opens a HTTP GET endpoint linked to a file or folder on your machine, so you can just download the wanted file from another computer on your local network (or distant if the port is opened on the internet).
 
 It's mainly used to dump payload and/or scripts using curl and wget, to use a CVE in a remote machine. 
 Of course, it's intended to be used during CTFs and not on actual vulnerable devices.
+
+Please add a star if you like it :)
 
 
 ## How to install it
