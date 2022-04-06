@@ -1,4 +1,4 @@
-module github.com/ThrynSec/GoDumpPayload
+module github.com/ThrynSec/GoDumpFile
 
 go 1.18
 

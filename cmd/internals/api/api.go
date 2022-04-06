@@ -4,7 +4,7 @@ import (
 	"log"
 	"strconv"
 
-	"github.com/ThrynSec/GoDumpPayload/cmd/internals/config"
+	"github.com/ThrynSec/GoDumpFile/cmd/internals/config"
 	"github.com/gin-gonic/gin"
 )
 
