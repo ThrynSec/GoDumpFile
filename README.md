@@ -10,7 +10,7 @@ Please add a star if you like it :)
 
 ## How to install it
 
-You can either download the code in the /cmd/ folder of this repository and then build it using `go build ./cmd/main/main.go`, or, if you're somewhat lazy you can also download the executable with `wget https://github.com/ThrynSec/GoDumpFile/blob/main/executables/GoDumpFile`
+You can either download the code in the /cmd/ folder of this repository and then build it using `go build ./cmd/main/main.go`, or, if you're somewhat lazy you can also download the executable in the `executables` folder.
 
 
 ## How to use it
